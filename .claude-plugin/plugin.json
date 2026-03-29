@@ -1,0 +1,22 @@
+{
+  "name": "harness",
+  "version": "1.0.0",
+  "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Say 'build a harness' to automatically generate .claude/agents/ and .claude/skills/ tailored to your domain.",
+  "author": {
+    "name": "Your Name",
+    "email": "your@email.com",
+    "url": "https://github.com/your-username"
+  },
+  "homepage": "https://github.com/your-username/harness",
+  "repository": "https://github.com/your-username/harness",
+  "license": "Apache-2.0",
+  "keywords": [
+    "harness",
+    "agent-team",
+    "multi-agent",
+    "skill-architect",
+    "orchestration",
+    "harness-engineering"
+  ],
+  "skills": "./skills/"
+}
