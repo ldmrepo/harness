@@ -3,8 +3,8 @@
   "name": "harness",
   "description": "Agent Team & Skill Architect plugin for Claude Code. Generates production-ready agent teams and skills for any domain.",
   "owner": {
-    "name": "Your Name",
-    "email": "your@email.com"
+    "name": "lee dm",
+    "email": "ldmprog@gmail.com"
   },
   "plugins": [
     {
@@ -12,8 +12,8 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. Supports 6 architectural patterns: Pipeline, Fan-out/Fan-in, Expert Pool, Producer-Reviewer, Supervisor, and Hierarchical Delegation.",
       "version": "1.0.0",
       "author": {
-        "name": "Your Name",
-        "email": "your@email.com"
+        "name": "lee dm",
+        "email": "ldmprog@gmail.com"
       },
       "source": "./",
       "category": "productivity",
@@ -24,7 +24,7 @@
         "orchestration",
         "harness-engineering"
       ],
-      "homepage": "https://github.com/your-username/harness"
+      "homepage": "https://github.com/ldmrepo/harness"
     }
   ]
 }
