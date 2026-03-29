@@ -8,13 +8,15 @@
 
 "하네스 구성해줘"라고 말하면, 사용자의 도메인에 맞는 에이전트 정의(`.claude/agents/`)와 스킬(`.claude/skills/`)을 자동 생성한다.
 
+![alt text](harness.png)
+
 ## 설치
 
 ### 마켓플레이스를 통한 설치 (권장)
 
 ```bash
 # 1. 마켓플레이스 등록
-/plugin marketplace add your-username/harness
+/plugin marketplace add ldmrepo/harness
 
 # 2. 플러그인 설치
 /plugin install harness@harness
